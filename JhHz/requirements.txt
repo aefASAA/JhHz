@@ -1,0 +1,12 @@
+# JhHz Python环境管理器依赖
+# 基础依赖（Python标准库，无需安装）
+# tkinter - GUI界面
+# subprocess - 进程管理
+# threading - 多线程支持
+# json - JSON数据处理
+# pathlib - 路径处理
+
+# 可选依赖（如果需要额外功能）
+# requests>=2.25.1
+# beautifulsoup4>=4.9.3
+# selenium>=3.141.0 
